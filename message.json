@@ -1,0 +1,18 @@
+{
+  "message": {
+    "token": "ctZJJWJGZ0RjvFrsXIioOg:APA91bFaQMWNgKV5r93XlgcWECusW4SMJShGhbWDbMc6LZavN5WlCfUxjrRd15qPD-pYoGOKETKOnZ0kS5CjSCgzbDsLwUro5sAuVNZLNpqR8ix_QdLhmgM",
+    "data": {
+      "foo": "bar"
+    },
+    "apns": {
+      "headers": {
+        "apns-push-type": "background",
+        "apns-priority": "5",
+        "apns-topic": "com.gide.cloudpay.labapp.CloudPayLabApp"
+      },
+      "payload": {
+        "aps": { "content-available": 1 }
+      }
+    }
+  }
+}
