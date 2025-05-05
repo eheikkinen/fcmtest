@@ -1,4 +1,4 @@
-#!/usr/bin/env sh
+#!/usr/bin/env bash
 
 # send.sh - Send FCM push notifications using a Google service account
 # Usage: ./send.sh
